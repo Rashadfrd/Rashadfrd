@@ -1,4 +1,4 @@
-![programming](https://user-images.githubusercontent.com/84392964/183265970-49dd009b-a370-498c-a86c-0ae22410e66a.gif)
+![programming](https://magiccopy.xyz/assets/images/hadder.gif)
 <h1 align="center">Hi 👋, I'm Rashad Farhadzada</h1>
 <h3 align="center">I'm a passionate web developer</h3>
 
