@@ -2,7 +2,7 @@
 <img src="https://media.graphassets.com/iOHVkwZJSROO9LafpHiX" align="center" style="width: 100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Rashad Farhadzada</h1>
+<h1 align="center">👋, I'm Rashad Farhadzada</h1>
 <h3 align="center">I'm a passionate web developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://rashad-farhadzada-portfolio.netlify.app/](https://rashad-farhadzada-portfolio.netlify.app/)
